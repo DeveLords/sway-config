@@ -1,0 +1,5 @@
+include $HOME/.config/sway/definitions
+include $HOME/.config/sway/input/*
+include $HOME/.config/sway/output/*
+include $HOME/.config/sway/autostart
+include $HOME/.config/sway/themes/*
